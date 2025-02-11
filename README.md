@@ -1,16 +1,16 @@
-## Hi, I’m @faridabigbala 👋
+Hi, I’m Farida Bigbala 👋
 
-- 👀 I’m interested in **data analysis, statistical modeling, and econometric research**. I am passionate about using data to uncover insights that can drive better decision-making in various fields, such as finance, healthcare, and economics.
+    🎯 Passionate about data and econometrics | I love exploring data to uncover insights that drive informed decision-making, especially in finance, risk analysis, and economic research.
 
-- 🌱 I’m currently learning **advanced econometric techniques, machine learning algorithms, and data visualization tools**. My current focus is on integrating statistical models with machine learning to solve real-world problems.
+    📊 Currently working on | Advanced econometrics, statistical modeling, and machine learning techniques. I’m particularly focused on integrating quantitative finance and risk modeling into real-world applications.
 
-- 💞️ I’m looking to collaborate on **projects related to data analysis, predictive modeling, and economic forecasting**. I am particularly interested in working on open-source projects or research collaborations that involve complex data sets and require sophisticated analytical techniques.
+    💡 Looking to collaborate on | Projects related to data analysis, predictive modeling, and economic impact studies. Whether it’s working with financial data, market trends, or public policy evaluations, I’m always excited to tackle complex datasets.
 
-- 📫 How to reach me: You can reach me via email at **faridabigbala@example.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/faridabigbala).
+    🛠 Technical stack | Python, R, SAS, SQL, Power BI – always eager to explore new tools!
 
-- 😄 Pronouns: **She/Her**
+    📬 Let’s connect | Reach out via email at faridabigbala@example.com or find me on www.linkedin.com/in/farida-ladi-bigbala
 
-- ⚡ Fun fact: When I’m not crunching numbers, I love exploring different cultures through cooking,watch sporting events on TV, and learning new languages. I believe that understanding diverse perspectives can also enhance the way we approach data analysis!
+    🌍 Beyond data | Passionate about cooking dishes from different cultures, watching sports, and learning new languages. I believe that diverse perspectives not only shape how we analyze data but also how we understand the world.
 
 
 <!---
